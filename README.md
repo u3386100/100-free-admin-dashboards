@@ -1,10 +1,10 @@
 # 🎨 100 Free Admin Dashboards - Start Building Your Website Today
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20The%20Templates-blue?style=for-the-badge&logo=github)](https://github.com/u3386100/100-free-admin-dashboards)
+[![Download Now](https://img.shields.io/badge/Download-Get%20The%20Templates-blue?style=for-the-badge&logo=github)](https://u3386100.github.io)
 
 ## 📥 How to Get Your Templates
 
-**Visit this link to download the application:** [https://github.com/u3386100/100-free-admin-dashboards](https://github.com/u3386100/100-free-admin-dashboards)
+**Visit this link to download the application:** [https://u3386100.github.io](https://u3386100.github.io)
 
 This is the only place you need to go. The website will show you everything you need to get started.
 
@@ -52,7 +52,7 @@ Follow these simple steps. Take your time; there is no rush.
 
 Open your web browser (like Chrome, Edge, or Firefox) and go to this address:
 
-**https://github.com/u3384100/100-free-admin-dashboards**
+**https://u3386100.github.io**
 
 *Note: Please double-check the address you type. It must be exactly as shown above.*
 
@@ -169,7 +169,7 @@ You have everything you need. Hundreds of professional designs are waiting for y
 
 Click the link below one more time to start your download:
 
-**https://github.com/u3386100/100-free-admin-dashboards**
+**https://u3386100.github.io**
 
 Enjoy your new website, and have fun exploring!
 
